@@ -226,7 +226,7 @@ header {
   justify-self: end;
   display: flex;
   align-items: center;
-  padding: .87rem 1rem;
+  padding: .875rem 1rem;
   border-radius: 56px;
 }
 
@@ -239,9 +239,9 @@ nav {
   grid-template-columns: repeat(5, 1fr);
   justify-items: center;
   grid-area: nav;
-  background-color: hsla(0, 0%, 93%, 1);
+  background-color: #ededed;
   border-top: 1px solid hsla(0, 0%, 85%, 1);
-  padding: 1.313rem 24.25rem 1.313rem 25rem;
+  padding: 1.313rem 25rem;
 }
 
 nav a:visted {
