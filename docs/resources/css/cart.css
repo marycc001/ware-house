@@ -54,6 +54,7 @@ input {
 .totalprice {
   color: forestgreen;
   font-size: 24px;
+  font-weight: bold;
   margin-bottom: 2rem;
 }
 
